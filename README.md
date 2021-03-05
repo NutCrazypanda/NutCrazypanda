@@ -3,8 +3,13 @@
 
 
 
-##Language
+<h3>🛠 Tech Stack</h3>
+- 💻 &nbsp; Python | C++ | PHP | Mql4 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Xampp
 
+
+<br>
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="left">
  <a href="https://twitter.com/nut039" target="_blank" ><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  </p>
@@ -13,7 +18,7 @@
 - 🌱 I’m currently learning Machine Learning...
 - 💬 Ask me about PC Gaming. I'm small streamer on https://fb.com/crazypandagaming
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NutCrazypanda&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/NutCrazypanda/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NutCrazypanda&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/NutCrazypanda/github-readme-stats) -->
 
 <br>
 
