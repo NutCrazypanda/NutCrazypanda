@@ -4,7 +4,7 @@ My name is Nuttawat. The freelance developer from Thailand.
 
 
 <h3>🛠 Tech Stack</h3>
-💻 &nbsp; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) | C++ | PHP | Mql4 <br>
+💻 &nbsp; Python | C++ | PHP | Mql4 <br>
 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap <br>
 🛢 &nbsp; MySQL | Xampp <br>
 <br>
