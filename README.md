@@ -4,12 +4,11 @@
 
 
 <h3>🛠 Tech Stack</h3>
-- 💻 &nbsp; Python | C++ | PHP | Mql4 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Xampp
-
-
+💻 &nbsp; Python | C++ | PHP | Mql4 <br>
+🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap <br>
+🛢 &nbsp; MySQL | Xampp <br>
 <br>
+
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="left">
  <a href="https://twitter.com/nut039" target="_blank" ><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  </p>
