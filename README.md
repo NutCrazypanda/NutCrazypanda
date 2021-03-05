@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Nuttawat. The freelance developer from Thailand. 
-
+My name is Nuttawat. The freelance developer from Thailand. <br>
+[![Twitter Badge](https://img.shields.io/badge/-@nut039-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nut039)](https://twitter.com/nut039)
 
 
 <h3>🛠 Tech Stack</h3>
@@ -8,10 +8,6 @@ My name is Nuttawat. The freelance developer from Thailand.
 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap <br>
 🛢 &nbsp; MySQL | Xampp <br>
 <br>
-
-<h3> 🤝🏻 Connect with Me </h3>
-<p align="left">
- <a href="https://twitter.com/nut039" target="_blank" ><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  </p>
 
 - 🔭 I’m currently working on iot private project.
 - 🌱 I’m currently learning Machine Learning...
