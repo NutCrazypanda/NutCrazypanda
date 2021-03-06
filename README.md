@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Nuttawat. The freelance developer from Thailand. Nice to meet you guys.<br><br>
-[![Twitter Badge](https://img.shields.io/badge/-@nut039-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nut039)](https://twitter.com/nut039) [![Facebook Badge](https://img.shields.io/badge/Facebook-CrazypandaGaming-blue)](https://fb.com/crazypandagaming)
+[![Twitter Badge](https://img.shields.io/badge/-@nut039-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nut039)](https://twitter.com/nut039)
 
 
 <h3>🛠 Tech Stack</h3>
@@ -11,7 +11,7 @@ My name is Nuttawat. The freelance developer from Thailand. Nice to meet you guy
 
 - 🔭 I’m currently working on iot private project.
 - 🌱 I’m currently learning Machine Learning...
-- 💬 Ask me about PC Gaming. I'm small streamer on https://fb.com/crazypandagaming
+- 💬 Ask me about PC Gaming. I'm small streamer on [![Facebook Badge](https://img.shields.io/badge/Facebook-CrazypandaGaming-blue)](https://fb.com/crazypandagaming)
 
 
 <br>
