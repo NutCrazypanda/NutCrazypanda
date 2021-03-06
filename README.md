@@ -7,6 +7,7 @@ My name is Nuttawat. The freelance developer from Thailand. Nice to meet you guy
 💻 &nbsp; Python | C++ | PHP | Mql4 <br>
 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap <br>
 🛢 &nbsp; MySQL | Xampp <br>
+⚙ &nbsp; Raspberry | Arduino | ESP8266
 <br>
 
 - 🔭 I’m currently working on iot private project.
