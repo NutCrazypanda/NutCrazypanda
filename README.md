@@ -14,7 +14,7 @@ My name is Nuttawat. The freelance developer from Thailand. Nice to meet you guy
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/-Arduino-00C4CC.svg?logo=arduino&style=flat)
+![Arduino](https://img.shields.io/badge/-Arduino-00C4CC.svg?logo=arduino&logoColor=white&style=flat)
 ![windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
 ![linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)
 ![Apache](https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat)
