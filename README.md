@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Nuttawat. The freelance developer from Thailand. Nice to meet you guys.<br><br>
-[![Twitter Badge](https://img.shields.io/badge/-@nut039-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nut039)](https://twitter.com/nut039)
+[![Twitter Badge](https://img.shields.io/badge/-@nut039-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nut039)](https://twitter.com/nut039) ![Mail](https://img.shields.io/badge/email-nut039%40gmail.com-green)
 
 ### ⚡ Technologies
 
