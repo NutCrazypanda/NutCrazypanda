@@ -19,6 +19,11 @@ My name is Nuttawat. The freelance developer from Thailand. Nice to meet you guy
 ![linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)
 ![Apache](https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat)
 
+### 🎨 Graphic
+
+![Photoshop](https://img.shields.io/badge/-Photoshop-1572B6.svg?logo=Adobe&style=flat)
+![illustrator](https://img.shields.io/badge/-illustrator-E34F26.svg?logo=Adobe&style=flat)
+![Premiere](https://img.shields.io/badge/-Premiere-563D7C.svg?logo=Adobe&style=flat)
 
 <h3>💼 Working </h3>
 
