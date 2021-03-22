@@ -1,20 +1,20 @@
 ### Hi there 👋
 My name is Nuttawat. The freelance developer from Thailand. Nice to meet you guys.<br><br>
-[![Twitter Badge](https://img.shields.io/badge/-@nut039-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nut039)](https://twitter.com/nut039) ![Mail](https://img.shields.io/badge/email-nut039%40gmail.com-green)
+[![Twitter Badge](https://img.shields.io/badge/-@nut039-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nut039)](https://twitter.com/nut039) ![Mail](https://img.shields.io/badge/email-nut039%40gmail.com-green)
 
 ### ⚡ Technologies
 
 ![PHP](https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![Apache](https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat&logo=microsoft-azure)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00C4CC.svg?logo=arduino&logoColor=white&style=flat)
 ![windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
 ![linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)
