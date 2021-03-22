@@ -10,6 +10,7 @@ My name is Nuttawat. The freelance developer from Thailand. Nice to meet you guy
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Apache](https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -18,7 +19,7 @@ My name is Nuttawat. The freelance developer from Thailand. Nice to meet you guy
 ![windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
 ![linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)
 ![MaxOS](https://img.shields.io/badge/-MacOS-ccc.svg?logo=Apple&style=flat)
-![Apache](https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat)
+
 
 ### 🎨 Graphic
 
