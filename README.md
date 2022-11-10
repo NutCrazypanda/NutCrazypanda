@@ -4,7 +4,6 @@ My name is Nuttawat. The freelance developer from Thailand. Nice to meet you guy
 
 ### ⚡ Technologies
 
-![LinkedIn](https://www.linkedin.com/in/nuttawat-jampangern-53786b4b)
 ![PHP](https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
